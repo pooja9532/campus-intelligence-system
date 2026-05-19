@@ -89,12 +89,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 👥 Team
-
-**Smart Coders** — Sairam College of Engineering, VTU
-- ISE Department, 4th Semester
-
----
 
 ## 📄 License
 

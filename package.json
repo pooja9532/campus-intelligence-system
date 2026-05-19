@@ -1,0 +1,36 @@
+{
+  "name": "campus-intelligence-system",
+  "version": "1.0.0",
+  "description": "Campus Visitor & Hostel Management System - Sairam College of Engineering",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "db:generate": "drizzle-kit generate:pg",
+    "db:migrate": "drizzle-kit push:pg",
+    "db:studio": "drizzle-kit studio"
+  },
+  "dependencies": {
+    "next": "14.2.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "drizzle-orm": "^0.30.0",
+    "pg": "^8.11.0",
+    "next-auth": "^4.24.0",
+    "qrcode": "^1.5.3",
+    "twilio": "^4.23.0",
+    "date-fns": "^3.6.0",
+    "zod": "^3.22.0",
+    "tailwindcss": "^3.4.0",
+    "lucide-react": "^0.383.0"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.20.0",
+    "@types/pg": "^8.11.0",
+    "@types/qrcode": "^1.5.5",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}

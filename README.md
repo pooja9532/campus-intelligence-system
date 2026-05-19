@@ -1,0 +1,1 @@
+# campus-intelligence-system
